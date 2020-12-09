@@ -1,0 +1,11 @@
+{
+  "name": "yarn-2-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benoitf/yarn-2-test",
+  "author": "Florent Benoit <fbenoit@redhat.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
